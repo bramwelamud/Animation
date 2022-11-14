@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+
+}
+span{
+    background-image: url("OIP.jfif");
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    pointer-events:none ;
+    background-size: cover;
+    left: 50%;
+    top: 50%;
+    transition:translate(-50%,-50%);
+    animation: animate 6s backwards;
+}
+@keyframes animate {
+    0%{tranform:translate(-50%,-50%);
+    opacity: 1;
+filter:hue-rotate(0) ;}
+   100% {opacity:1;
+transform: translate(-50%,-5000%);
+filter: hue-rotate(720deg);}
+}
