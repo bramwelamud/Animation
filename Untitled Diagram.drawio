@@ -64,7 +64,7 @@
           <mxGeometry x="-40" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-kl_pbeFkhA-RbGxBzvX-14" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="480" width="120" height="120" as="geometry" />
+          <mxGeometry x="60" y="470" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-kl_pbeFkhA-RbGxBzvX-16" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="130" height="90" as="geometry" />
@@ -98,6 +98,9 @@
         </mxCell>
         <mxCell id="-kl_pbeFkhA-RbGxBzvX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-kl_pbeFkhA-RbGxBzvX-7" target="-kl_pbeFkhA-RbGxBzvX-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kl_pbeFkhA-RbGxBzvX-33" value="&lt;u&gt;user&lt;/u&gt;&lt;div&gt;&lt;u&gt;1.landlord&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;2.realtors&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;4.leads&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;5&lt;/u&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="49" y="680" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
