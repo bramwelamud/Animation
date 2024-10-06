@@ -67,13 +67,13 @@
           <mxGeometry x="40" y="480" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-kl_pbeFkhA-RbGxBzvX-16" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="500" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-kl_pbeFkhA-RbGxBzvX-18" value="Load balancer" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="230" y="50" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-kl_pbeFkhA-RbGxBzvX-21" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="350" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-kl_pbeFkhA-RbGxBzvX-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.862;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -93,8 +93,11 @@
         <mxCell id="-kl_pbeFkhA-RbGxBzvX-28" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#e1d5e7;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-kl_pbeFkhA-RbGxBzvX-31" value="authetication" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="-kl_pbeFkhA-RbGxBzvX-31" value="authetication" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="220" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-kl_pbeFkhA-RbGxBzvX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-kl_pbeFkhA-RbGxBzvX-7" target="-kl_pbeFkhA-RbGxBzvX-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
